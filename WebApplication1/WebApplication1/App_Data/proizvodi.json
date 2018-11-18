@@ -1,0 +1,52 @@
+{
+  "Proizvod": [
+    {
+      "ID": 0,
+      "NAME": "HP 999",
+      "DESCRIPTION": "NOVI RACUNAR HP",
+      "CATEGORY": "RACUNARI",
+      "FACTORY": "JAPAN",
+      "RETAILER": "ELECTONRICS",
+      "PRICE": 192
+    },
+    {
+      "ID": 1,
+      "NAME": "SAMSUNG  S999",
+      "DESCRIPTION": "Najnoviji SAMSUNG TABLET",
+      "CATEGORY": "TABLETI",
+      "FACTORY": "KOREA",
+      "RETAILER": "KOREA TECH",
+      "PRICE": 1999
+    },
+    {
+      "ID": 2,
+      "NAME": "Volkswagen T54",
+      "DESCRIPTION": "Novi elektricni automobil",
+      "CATEGORY": "AUTOMOBILI",
+      "FACTORY": "Njemacka",
+      "RETAILER": "KL Fabrika",
+      "PRICE": 19999
+    },
+    {
+      "ID": 3,
+      "NAME": "Jogurt 2.99%",
+      "DESCRIPTION": "Rok upotrebe : 19.2.2020",
+      "CATEGORY": "Namjernice",
+      "FACTORY": "Gornji MIlanovac",
+      "RETAILER": "IDEA",
+      "PRICE": 3
+    },
+    {
+      "ID": 4,
+      "NAME": "SAVA UHP2 205/65/16",
+      "DESCRIPTION": "ZIMSKE GUME",
+      "CATEGORY": "GUME",
+      "FACTORY": "MADJARSKA",
+      "RETAILER": "EKO PETROL",
+      "PRICE": 55
+    }
+
+  ]
+}{
+
+}
